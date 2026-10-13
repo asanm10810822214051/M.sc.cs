@@ -99,10 +99,14 @@
     <div class="faculty-box">
         <ul>
             <li><b>Dr. S.P. PONNUSAMY</b> – Head of Department (HOD)</li>
-            <li><b>Ms. K. JAYALAKSHMI</b> – Guest Lecturer</li>
-            <li><b>MS. U. UMAMAHESHWARI</b> – Guest Lecturer</li>
-            <li><b>Ms. S. VALLI</b> – Guest Lecturer</li>
-            <li><b>Mr. M. SUBASH</b> – PTA Staff</li>
+            <li><b>Dr . M. RAJA</b> – Assistant professer</li>
+            <li><b>Dr. J.CHARLES</b> – Assistant professer</li>
+            <li><b>Dr. K.JAYALAKSHMI</b> – Guest Lecturer</li>
+            <li><b>Ms. U.UMAMAHASHWARI </b> – Guest Lecturer</li>
+            <li><b>Ms. S. VALLI</b> - Guest Lecturer</li>
+            <li><b>Dr. R. UMA</b> - Guest Lecturer</li>
+            <li><b>Dr. V. VIJAYALAKSHMI</b> - Guest Lecturer</li>
+            <li><b>Dr. T. SIVARAMAN</b> - Guest Lecturer</li> 
         </ul>
     </div>
 
@@ -119,15 +123,15 @@
         <tbody>
             <tr>
                 <td>1</td>
-                <td>AARTHI R</td>
+                <td>ABDULKADHAR B</td>
                 <td>M.Sc. Computer Science</td>
-                <td>24131196C504322001</td>
+                <td>25131196504321001</td>
             </tr>
             <tr>
                 <td>2</td>
-                <td>ABIRAMI J</td>
+                <td>MURALIDHARAN N</td>
                 <td>M.Sc. Computer Science</td>
-                <td>24131196C504322002</td>
+                <td>25131196504321006</td>
             </tr>
         </tbody>
     </table>
